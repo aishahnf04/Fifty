@@ -1,15 +1,15 @@
 [
     {
         "id" : 12252012,
-        "name" : "Rainbow's End - Unlimited Superpass",
-        "title" : "Rainbow's End Pass",
+        "title" : "Rainbow's End - Unlimited Superpass",
+        "name" : "Rainbow's End Pass",
         "type" : "Entertainment",
         "price" : 41,
         "description" : "Adult 41$ Child 24$, This is a fantastic opportunity to get a 50% discount and lots of fun",
         "moreDescription" : "for the ultimate fun fuelled experience",
-        "photo_large" : "https://github.com/sadiahanif/Fifty/blob/master/P1-LargeImage.png",
-        "photo_small1" : "https://github.com/sadiahanif/Fifty/blob/master/P1-SmallImage1.png",
-        "photo_small2" : "https://github.com/sadiahanif/Fifty/blob/master/P1-SmallImage2.png",
-        "photo_small3" : "https://github.com/sadiahanif/Fifty/blob/master/P1-SmallImage1.png"
+        "photo_large" : "http://mishoppe.in/wp-content/uploads/2018/01/snapdeal-deals-of-the-day.jpg",
+        "photo_small1" : "http://mishoppe.in/wp-content/uploads/2018/01/snapdeal-deals-of-the-day.jpg",
+        "photo_small2" : "http://mishoppe.in/wp-content/uploads/2018/01/snapdeal-deals-of-the-day.jpg",
+        "photo_small3" : "http://mishoppe.in/wp-content/uploads/2018/01/snapdeal-deals-of-the-day.jpg"
     }
 ]
