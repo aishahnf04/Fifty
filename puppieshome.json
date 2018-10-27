@@ -11,5 +11,31 @@
         "photo_small1" : "https://tinyurl.com/y7tw3f6v",
         "photo_small2" : "https://tinyurl.com/y7tw3f6v",
         "photo_small3" : "https://tinyurl.com/y7tw3f6v"
+    },
+     {
+        "id" : 12252012,
+        "title" : "Come Explore!",
+        "name" : "Global Village UAE",
+        "type" : "Entertainment",
+        "price" : 1499,
+        "description" : " Come join the celebration of diversity.",
+        "moreDescription" : "For the ultimate fun fuelled experience",
+        "photo_large" : "https://tinyurl.com/y7tw3f6v",
+        "photo_small1" : "https://tinyurl.com/y7tw3f6v",
+        "photo_small2" : "https://tinyurl.com/y7tw3f6v",
+        "photo_small3" : "https://tinyurl.com/y7tw3f6v"
+    },
+     {
+        "id" : 12252012,
+        "title" : "Come Explore!",
+        "name" : "Global Village UAE",
+        "type" : "Entertainment",
+        "price" : 1499,
+        "description" : " Come join the celebration of diversity.",
+        "moreDescription" : "For the ultimate fun fuelled experience",
+        "photo_large" : "https://tinyurl.com/y7tw3f6v",
+        "photo_small1" : "https://tinyurl.com/y7tw3f6v",
+        "photo_small2" : "https://tinyurl.com/y7tw3f6v",
+        "photo_small3" : "https://tinyurl.com/y7tw3f6v"
     }
 ]
